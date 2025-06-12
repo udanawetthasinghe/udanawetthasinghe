@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there 👋, I'm udana wetthasinghe
 
-<!--
-**udanawetthasinghe/udanawetthasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** specializing in creating web applications using modern frameworks and technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Skills & Expertise:
+- **Frontend:** React.js, Redux, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MySQL, MongoDB
+- **Languages:** JavaScript, Python
+- **DevOps:** Git, CI/CD, Docker, Google Cloud
+- **Data Analytics:** Python, data visualization
+
+---
+
+#### 🎓 Education:
+- MSc in Full Stack Software Development from JAMK University, Finland.
+
+---
+
+#### 📚 Research and Projects:
+- Dengue Information System (DIS) for Sri Lanka using MERN stack.
+- Integration of forecasting models using REST APIs.
+
+---
+
+#### 📸 Other Interests:
+- Photography, graphic design, and nature exploration.
+
+---
+
+📫 **Let's connect!**
+- LinkedIn: [Your LinkedIn Profile]
+- Email: [your-email@example.com]
