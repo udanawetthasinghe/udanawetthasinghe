@@ -1,4 +1,4 @@
-### Hi there 👋, I'm udana wetthasinghe
+### Hi 👋, I'm udana wetthasinghe
 
 I'm a passionate **Full Stack Developer** specializing in creating web applications using modern frameworks and technologies.
 
@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Developer** specializing in creating web applicati
 ---
 
 #### 📚 Research and Projects:
-- Dengue Information System (DIS) for Sri Lanka using MERN stack.
+- Dengue Information System (DIS) for Sri Lanka using MERN stack. http://34.88.15.232:3000/
 - Integration of forecasting models using REST APIs.
 
 ---
@@ -31,5 +31,5 @@ I'm a passionate **Full Stack Developer** specializing in creating web applicati
 ---
 
 📫 **Let's connect!**
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [your-email@example.com]
+- LinkedIn: https://www.linkedin.com/in/udana-wetthasinghe/
+- Email: udanakashyapa@gmail.com
